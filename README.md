@@ -1,4 +1,4 @@
-# codonline
+# codlan
 A online "LAN" system for Black Ops 3 (Playstation 4)
 
 I'm not affiling with Activision/Call of Duty/Treyarch/Playstation (it's a home made code without any piracy).

@@ -1,0 +1,25 @@
+{
+  "name": "cod-lan-server",
+  "version": "1.0.0",
+  "description": "Create a gateway server for remote \"lan\" play in Call of Duty (PS4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cod",
+    "ps4",
+    "lan",
+    "server"
+  ],
+  "author": "TheoryWrong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ip-to-int": "^0.3.1",
+    "mongodb": "^3.1.1",
+    "request": "^2.87.0",
+    "validate-ip": "^1.0.1",
+    "validator": "^10.4.0"
+  }
+}
